@@ -18,7 +18,7 @@ Hello, Coding World! 👋<br>I'm a Full Stack Developer who loves clean code, mo
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rahimoff.o1_) [![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/iamabdurahmonn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdurahmonfrontdev@gmail.com) 
+[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@rahimoff.o1_](https://www.instagram.com/rahimoff.o1/)) [![Telegram]([https://img.shields.io/badge/Telegram-%23E4405F.svg?logo=Telegram&logoColor=white)](https://t.me/iamabdurahmonn](https://t.me/iamabdurahmon)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coderakhimov@gmail.com) 
 
 
 
