@@ -27,8 +27,8 @@ Full Stack muhandisi sifatida men **toza kod**, **arxitektura** va **foydalanuvc
 
 ### 📈 Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&theme=transparent&hide_border=true&show_icons=true&icon_color=00E7FF&text_color=7d7d7d&title_color=FFFFFF" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&theme=transparent&hide_border=true&layout=compact&text_color=7d7d7d&title_color=FFFFFF" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=dark" height="150" />
 </p>
 
 <p align="center">
