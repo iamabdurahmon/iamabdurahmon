@@ -83,7 +83,7 @@ Figma / Framer        ███████████████████�
 ### Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabdurahmon&theme=github-dark&hide_border=true" />
 </div>
 ---
 
