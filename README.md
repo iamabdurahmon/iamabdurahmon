@@ -75,7 +75,7 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rakhimov-web&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=4&column=6&rank=SSS,SS,S,AAA,AA,A,B" />
+<img src="https://github-trophies.vercel.app/?username=rakhimov-web&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=4&column=6" />
 
 </div>
 
