@@ -69,13 +69,13 @@ Figma / Framer        ███████████████████�
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iamabdurahmon&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+  <img src="https://streak-stats.demolab.com?user=iamabdurahmon&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
