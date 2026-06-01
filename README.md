@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Abdurahmon+%F0%9F%91%8B;Frontend+Developer+%C2%B7+Namangan%2C+Uzbekistan;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+React+%C2%B7+Next.js;Building+clean%2C+user-first+interfaces" alt="Typing SVG" />
 
-<br/>
-
-**Abdurahmon Rakhimov** · Frontend Developer · 📍 Namangan, Uzbekistan
 
 </div>
 
