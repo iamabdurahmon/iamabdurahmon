@@ -1,111 +1,208 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Abdurahmon+Rakhimov;Frontend+Developer+from+Uzbekistan;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+TailwindCSS;Building+modern+and+responsive+web+applications" alt="Typing SVG" />
+# Abdulloh
+
+### Frontend-Focused Product Engineer
+
+Building scalable, performant and user-centered web products.
+
+<br/>
+
+<a href="https://your-portfolio.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/yourusername">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# About
+## About Me
 
-I'm **Abdurahmon Rakhimov**, a frontend-focused developer from **Namangan, Uzbekistan**.
+I build modern web applications with a strong focus on performance, scalability and long-term maintainability.
 
-I enjoy building modern, responsive, and user-friendly web applications while continuously improving my development and design skills.
+My approach combines engineering excellence, product thinking and attention to user experience.
 
-- 🚀 Focused on creating clean and scalable frontend projects
-- 🎨 Passionate about UI/UX and modern web design
-- 📚 Currently improving JavaScript, Python, and C++
-- 🌱 Learning advanced frontend architecture and performance optimization
-- 🤝 Open to collaboration on interesting projects and open-source contributions
+* Building production-grade web applications
+* Designing scalable frontend architectures
+* Creating clean and maintainable systems
+* Solving real business problems through software
 
 ---
 
-# Tech Stack
+## Core Expertise
+
+```text
+Frontend Architecture     ●●●●●●●●●●
+Next.js & React           ●●●●●●●●●●
+TypeScript                ●●●●●●●●●○
+UI Engineering            ●●●●●●●●●○
+Backend Development       ●●●●●●●●○○
+System Design             ●●●●●●●○○○
+```
+
+---
+
+## Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss)
 
-### Design & UI
+### Backend
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
 
-### Programming Languages
+### Database
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma)
 
-### Tools
+### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-# GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=iamabdurahmon&theme=github-dark-blue&hide_border=true" />
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
 
 ---
 
-# Trophies
+## Featured Projects
+
+### SaaS Platform
+
+Production-ready multi-tenant SaaS application.
+
+**Features**
+
+* Authentication & Authorization
+* Subscription Management
+* Role-Based Access
+* Reusable Architecture
+* High Scalability
+
+**Stack**
+
+Next.js • TypeScript • PostgreSQL • Prisma
+
+---
+
+### Enterprise Dashboard
+
+Advanced analytics and reporting platform.
+
+**Features**
+
+* Real-Time Data
+* Complex Filtering
+* Interactive Charts
+* Performance Optimization
+* Large Dataset Handling
+
+**Stack**
+
+React • TypeScript • Node.js
+
+---
+
+### E-Commerce Platform
+
+Modern commerce experience built for speed and conversions.
+
+**Features**
+
+* SEO Optimized
+* Stripe Integration
+* Product Management
+* Admin Dashboard
+* High Performance
+
+**Stack**
+
+Next.js • PostgreSQL • Stripe
+
+---
+
+## Engineering Principles
+
+```text
+✓ Write code for humans first
+
+✓ Simplicity over complexity
+
+✓ Performance is a feature
+
+✓ Scalable architecture matters
+
+✓ Business impact > technical hype
+```
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# Connect
+## Current Focus
 
-<div align="center">
+* Advanced Next.js Patterns
+* Frontend Architecture
+* System Design
+* High Performance Applications
+* Product Engineering
 
-<a href="https://t.me/iamabdurahmon">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.instagram.com/rahimoff.o1/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-</a>
+## Open For
 
-<a href="mailto:coderakhimov@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+* Remote Opportunities
+* Product Development
+* Startup Collaboration
+* Frontend Engineering
+* Full Stack Development
 
-<a href="https://www.rakhim.uz">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+---
 
-</div>
+## Contact
+
+Portfolio → https://your-portfolio.com
+
+LinkedIn → https://linkedin.com/in/yourusername
+
+Email → [your@email.com](mailto:your@email.com)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 👨‍💻
-
-*"Code. Learn. Build. Repeat."*
+### Building software that scales with users, teams and businesses.
 
 </div>
