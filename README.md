@@ -82,8 +82,8 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 ---
 
 ### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://www.rakhim.uz)
+ 
+[![Portfolio](https://img.shields.io/badge/rakhim.uz-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://www.rakhim.uz)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakhimov-web)
 &nbsp;
