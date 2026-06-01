@@ -69,9 +69,9 @@ Figma / Framer        ███████████████████�
 ### GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
@@ -83,9 +83,8 @@ Figma / Framer        ███████████████████�
 ### Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
-
 ---
 
 ### Connect
