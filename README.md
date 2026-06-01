@@ -2,207 +2,250 @@
 
 # Abdulloh
 
-### Frontend-Focused Product Engineer
+### Product Engineer • Frontend Specialist • Problem Solver
 
-Building scalable, performant and user-centered web products.
+Building digital experiences where performance, scalability and design meet.
 
-<br/>
+<br>
 
-<a href="https://your-portfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1000&color=6E7681&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Designing+scalable+frontend+architectures;Creating+products+that+users+love;Focused+on+performance+and+quality" />
+
+<br>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:youremail@gmail.com">
+<img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
+# Engineering Philosophy
 
-I build modern web applications with a strong focus on performance, scalability and long-term maintainability.
+I don't just build interfaces.
 
-My approach combines engineering excellence, product thinking and attention to user experience.
+I design systems, architect solutions and craft digital products that solve real-world business problems.
 
-* Building production-grade web applications
-* Designing scalable frontend architectures
-* Creating clean and maintainable systems
-* Solving real business problems through software
+My work focuses on the intersection of:
 
----
+* User Experience
+* Product Thinking
+* Scalable Architecture
+* Modern Engineering Practices
+* High Performance Systems
 
-## Core Expertise
-
-```text
-Frontend Architecture     ●●●●●●●●●●
-Next.js & React           ●●●●●●●●●●
-TypeScript                ●●●●●●●●●○
-UI Engineering            ●●●●●●●●●○
-Backend Development       ●●●●●●●●○○
-System Design             ●●●●●●●○○○
-```
+Every line of code should have a purpose.
 
 ---
 
-## Tech Stack
+# Expertise
 
-### Frontend
+<table>
+<tr>
+<td width="50%">
 
-![Next JS](https://img.shields.io/badge/Next.js-000?style=flat-square\&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square\&logo=tailwindcss)
+### Frontend Engineering
 
-### Backend
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Redux Toolkit
+* Zustand
+* Framer Motion
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express)
+</td>
 
-### Database
+<td width="50%">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma)
+### Backend Development
 
-### DevOps & Tools
+* Node.js
+* Express.js
+* REST API
+* Authentication
+* Authorization
+* WebSockets
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel)
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
+# Technology Stack
 
-### SaaS Platform
+<div align="center">
 
-Production-ready multi-tenant SaaS application.
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,postgres,mongodb,prisma,docker,git,github,vscode,figma&perline=7"/>
 
-**Features**
+</div>
 
-* Authentication & Authorization
+---
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+## SaaS Platform
+
+Multi-tenant application architecture built for scale.
+
+### Highlights
+
+* Authentication System
 * Subscription Management
-* Role-Based Access
-* Reusable Architecture
-* High Scalability
+* RBAC
+* Dashboard Analytics
+* Production Architecture
 
 **Stack**
 
-Next.js • TypeScript • PostgreSQL • Prisma
+Next.js · TypeScript · PostgreSQL
 
----
+</td>
 
-### Enterprise Dashboard
+<td width="50%">
 
-Advanced analytics and reporting platform.
+## Enterprise Dashboard
 
-**Features**
+Complex business analytics platform.
 
-* Real-Time Data
-* Complex Filtering
-* Interactive Charts
+### Highlights
+
+* Real-Time Updates
+* Advanced Filtering
+* Data Visualization
 * Performance Optimization
-* Large Dataset Handling
+* Modular Architecture
 
 **Stack**
 
-React • TypeScript • Node.js
+React · Node.js · PostgreSQL
 
----
+</td>
+</tr>
 
-### E-Commerce Platform
+<tr>
+<td width="50%">
 
-Modern commerce experience built for speed and conversions.
+## E-Commerce System
 
-**Features**
+Modern commerce platform focused on conversion.
 
-* SEO Optimized
-* Stripe Integration
+### Highlights
+
+* SEO Optimization
+* Payment Integration
+* Admin Panel
 * Product Management
-* Admin Dashboard
-* High Performance
+* High Lighthouse Score
 
-**Stack**
+</td>
 
-Next.js • PostgreSQL • Stripe
+<td width="50%">
+
+## Portfolio Platform
+
+Modern personal branding experience.
+
+### Highlights
+
+* Smooth Animations
+* Dynamic Content
+* Optimized Assets
+* Responsive Design
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Engineering Principles
+# GitHub Insights
 
-```text
-✓ Write code for humans first
+<div align="center">
 
-✓ Simplicity over complexity
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
 
-✓ Performance is a feature
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
 
-✓ Scalable architecture matters
+</div>
 
-✓ Business impact > technical hype
+<br>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=6E7681&line=58A6FF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```typescript
+const currentFocus = {
+  frontend: [
+    "Next.js Architecture",
+    "Performance Optimization",
+    "Design Systems"
+  ],
+
+  backend: [
+    "Scalable APIs",
+    "Database Design",
+    "System Architecture"
+  ],
+
+  learning: [
+    "Distributed Systems",
+    "Cloud Infrastructure",
+    "Advanced System Design"
+  ]
+}
 ```
 
 ---
 
-## GitHub Analytics
+# Beyond Coding
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-## Current Focus
-
-* Advanced Next.js Patterns
-* Frontend Architecture
+* Product Strategy
+* UX Thinking
 * System Design
-* High Performance Applications
-* Product Engineering
+* Business-Oriented Development
+* Technical Leadership
 
 ---
 
-## Open For
+# Open To
 
-* Remote Opportunities
-* Product Development
-* Startup Collaboration
+### Opportunities
+
 * Frontend Engineering
 * Full Stack Development
-
----
-
-## Contact
-
-Portfolio → https://your-portfolio.com
-
-LinkedIn → https://linkedin.com/in/yourusername
-
-Email → [your@email.com](mailto:your@email.com)
+* SaaS Products
+* Remote Teams
+* Startup Collaboration
 
 ---
 
 <div align="center">
 
-### Building software that scales with users, teams and businesses.
+### Let's build something exceptional.
+
+<br>
+
+Portfolio • LinkedIn • Email
 
 </div>
