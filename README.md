@@ -1,77 +1,111 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Vue+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js;Building+scalable%2C+user-first+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=Abdurahmon+Rakhimov;Frontend+Developer+from+Uzbekistan;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+TailwindCSS;Building+modern+and+responsive+web+applications" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### About
+# About
 
-I build end-to-end web applications — from clean, accessible frontends to performant backend systems. Currently focused on real-time data pipelines and TypeScript-first architecture.
+I'm **Abdurahmon Rakhimov**, a frontend-focused developer from **Namangan, Uzbekistan**.
 
-- **Working on** — Scalable real-time backend with Node.js, Redis, and WebSockets
-- **Learning** — Go for high-throughput microservices; advanced AWS deployment patterns
-- **Interested in** — Web accessibility, open-source tooling, and API design
+I enjoy building modern, responsive, and user-friendly web applications while continuously improving my development and design skills.
+
+- 🚀 Focused on creating clean and scalable frontend projects
+- 🎨 Passionate about UI/UX and modern web design
+- 📚 Currently improving JavaScript, Python, and C++
+- 🌱 Learning advanced frontend architecture and performance optimization
+- 🤝 Open to collaboration on interesting projects and open-source contributions
 
 ---
 
-### Tech Stack
+# Tech Stack
 
-#### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat-square&logo=go&logoColor=white)
+### Design & UI
 
-#### Data & Infra
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
-#### Design & Tooling
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### GitHub
+# GitHub
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=iamabdurahmon&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamabdurahmon&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-### Trophies
+# Trophies
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=iamabdurahmon&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
 ---
 
-### Connect
+# Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/iamabdurahmon)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rahimoff.o1/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:coderakhimov@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://www.rakhim.uz)
+<div align="center">
+
+<a href="https://t.me/iamabdurahmon">
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/rahimoff.o1/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:coderakhimov@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.rakhim.uz">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👨‍💻
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
