@@ -83,7 +83,7 @@ Figma / Framer        ███████████████████�
 ### Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabdurahmon&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakhimov-web&theme=github-dark&hide_border=true" />
 </div>
 ---
 
