@@ -68,11 +68,11 @@ Figma / Framer        ███████████████████�
 
 ### GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamabdurahmon&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   &nbsp;&nbsp;
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamabdurahmon&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iamabdurahmon&theme=github-dark-blue&hide_border=true" />
