@@ -84,15 +84,11 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 ### Connect
 
 <div align="center">
-  <a href="https://www.rakhim.uz">Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://t.me/iamabdurahmon">Telegram</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/rakhimv.o1/">Instagram</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/rakhimv">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:coderakhimov@gmail.com">Email</a>
+  <a href="https://www.rakhim.uz" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Portfolio ]</a>
+  <a href="https://t.me/iamabdurahmon" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Telegram ]</a>
+  <a href="https://www.linkedin.com/in/rakhimv" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ LinkedIn ]</a>
+  <a href="https://www.instagram.com/rakhimv.o1/" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Instagram ]</a>
+  <a href="mailto:coderakhimov@gmail.com" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Email ]</a>
 </div>
 
 <br/>
