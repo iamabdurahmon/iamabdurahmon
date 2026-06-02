@@ -83,13 +83,15 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 ### Connect
 
-<div align="center">
-  <a href="https://www.rakhim.uz" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Portfolio ]</a>
-  <a href="https://t.me/iamabdurahmon" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Telegram ]</a>
-  <a href="https://www.linkedin.com/in/rakhimv" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ LinkedIn ]</a>
-  <a href="https://www.instagram.com/rakhimv.o1/" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Instagram ]</a>
-  <a href="mailto:coderakhimov@gmail.com" style="color: #58A6FF; text-decoration: none; font-weight: bold; margin: 0 10px;">[ Email ]</a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel)](https://www.rakhim.uz)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/iamabdurahmon)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/rakhimv.o1/)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhimv)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:coderakhimov@gmail.com)
 
 <br/>
 
