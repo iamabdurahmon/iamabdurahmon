@@ -53,13 +53,13 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 <br/>
 
-<!-- <div align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rakhimov-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&rank_icon=github&include_all_commits=true&hide=prs,issues&cache_seconds=3600" height="160" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=3600" height="160" />
 
-</div> -->
+</div>
 
 <br/>
 
@@ -83,18 +83,14 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 ### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://www.rakhim.uz)
-
+[![Portfolio](https://img.shields.io/badge/rakhim.uz-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://www.rakhim.uz)
 &nbsp;
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakhimov-web)
+&nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=58a6ff)](https://t.me/iamabdurahmon)
-
 &nbsp;
-
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=58a6ff)](https://www.instagram.com/rakhimv.o1/)
-
 &nbsp;
-
 [![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:coderakhimov@gmail.com)
 
 <br/>
