@@ -89,7 +89,7 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/rakhimv.o1/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhimv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakhimv)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:coderakhimov@gmail.com)
 
