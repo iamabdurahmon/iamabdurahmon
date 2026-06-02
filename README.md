@@ -53,13 +53,13 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rakhimov-web&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&count_private=true&rank_icon=github&include_all_commits=true&hide=prs,issues&cache_seconds=3600" height="160" />
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-web&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=3600" height="160" />
 
-</div>
+</div> -->
 
 <br/>
 
