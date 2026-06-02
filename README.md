@@ -84,17 +84,15 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 ### Connect
 
 <div align="center">
-
-<a href="https://www.rakhim.uz"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-&nbsp;
-<a href="https://t.me/iamabdurahmon"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.instagram.com/rakhimv.o1/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/rakhimv"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:coderakhimov@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
+  <a href="https://www.rakhim.uz">Portfolio</a>
+  &nbsp; • &nbsp;
+  <a href="https://t.me/iamabdurahmon">Telegram</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/rakhimv.o1/">Instagram</a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/rakhimv">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:coderakhimov@gmail.com">Email</a>
 </div>
 
 <br/>
