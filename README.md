@@ -83,15 +83,19 @@ Frontend engineer from **Namangan, Uzbekistan** — focused on clean interfaces,
 
 ### Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel)](https://www.rakhim.uz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff)](https://www.rakhim.uz)
+
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram)](https://t.me/iamabdurahmon)
+
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=58a6ff)](https://t.me/iamabdurahmon)
+
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram)](https://www.instagram.com/rakhimv.o1/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=58a6ff)](https://www.instagram.com/rakhimv.o1/)
+
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rakhimv)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:coderakhimov@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff)](mailto:coderakhimov@gmail.com)
 
 <br/>
 
